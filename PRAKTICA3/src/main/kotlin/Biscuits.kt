@@ -1,0 +1,3 @@
+interface Biscuits {
+    fun sellBiscuits()
+}
